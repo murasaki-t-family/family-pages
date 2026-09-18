@@ -1,0 +1,3 @@
+# 秘密情報(MUR-507)
+.env*
+!.env.example
